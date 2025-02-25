@@ -40,7 +40,7 @@
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
   <a href="https://www.researchgate.net/profile/Carlos-Duran-Paredes?ev=hdr_xprf" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/color/40/000000/researchgate.png" alt="ResearchGate">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="40" height="40">
   </a>
   <a href="https://www.instagram.com/carlosadp7/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
